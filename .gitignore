@@ -1,0 +1,8 @@
+# Ignore dot directories
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore large data files
+*.zip
+*.tar.gz
+*.7z
