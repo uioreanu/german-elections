@@ -3,6 +3,12 @@
 ## Clustering der Parteien nach Positionen
 ![Clustering der Parteien nach Positionen](Clustering%20der%20Parteien%20nach%20Positionen.png)
 
+## 3D Clustering der Parteien
+![3D Clustering der Parteien](PCA_3D_Clustering.gif)
+
+## PCA Erklärte Varianz
+![Erklärte Varianz nach anzahl von PCA Dimensionen](Erklaerte_Varianz_PCA.png)
+
 ## Parteipositionen zur gewählten These
 ![Parteipositionen](party_positions_0.png)
 
