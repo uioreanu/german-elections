@@ -1,5 +1,7 @@
 # WahloMat 2025 – Analyse der Parteipositionen
 
+https://github.com/microraptor/wahlomat_analysis
+
 ## Clustering der Parteien nach Positionen
 ![Clustering der Parteien nach Positionen](img/Clustering%20der%20Parteien%20nach%20Positionen.png)
 
@@ -15,6 +17,9 @@
 ## Verteilung der Parteipositionen
 ![Verteilung der Parteipositionen](img/Verteilung%20der%20Parteipositionen.png)
 
+## Weitere Analysen von WahloMat Daten
+Repo von [microraptor](https://github.com/microraptor/wahlomat_analysis) = weitere Analysen, inkl barcharts für Thesen auf die Hauptkomponenten und Analysen älterer Wahlen
+
 ## WahloMat 2025 – Jupyter Notebook Analyse
 ![Wahlomat 2025](Wahlomat%202025.ipynb)
 
@@ -23,3 +28,4 @@
 
 ## Zustimmungsähnlichkeit zwischen Parteien
 ![Zustimmungsähnlichkeit](Zustimmungsähnlichkeit.png)
+
