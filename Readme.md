@@ -5,12 +5,16 @@
 
 ## 3D Clustering der Parteien
 ![3D Clustering der Parteien](img/PCA_3D_Clustering.gif)
+(bubble Größe = Dawum.de umfragewerte)
 
 ## PCA Erklärte Varianz
 ![Erklärte Varianz nach anzahl von PCA Dimensionen](img/Erklaerte_Varianz_PCA.png)
 
 ## Verteilung der Parteipositionen
 ![Verteilung der Parteipositionen](img/Verteilung%20der%20Parteipositionen.png)
+
+## Umfrageergebnisse im Zeitverlauf 📊
+🎯 Live Chart https://github.com/uioreanu/german-elections/blob/main/index_survey_data.html
 
 ## Weitere Analysen von WahloMat Daten
 🖼️ Repo von [microraptor](https://github.com/microraptor/wahlomat_analysis) = weitere Analysen, inkl barcharts für Thesen auf die Hauptkomponenten und Analysen älterer Wahlen
